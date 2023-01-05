@@ -8,11 +8,11 @@
 - 修改底部页脚支持填写备案号
 
 ## 使用方法
-1.下载或克隆仓库文件到本地
-2.解压上传至您的网站空间或Github-Page仓库
-3.修改config.js中的网站信息与UptimeRobot Api Keys
-4.修改main.js中8358行左右的底部信息和备案号
-5.(可选)替换images\background.jpg以设置背景图
-5.绑定域名，enjoy！
+- 1.下载或克隆仓库文件到本地
+- 2.解压上传至您的网站空间或Github-Page仓库
+- 3.修改config.js中的网站信息与UptimeRobot Api Keys
+- 4.修改main.js中8358行左右的底部信息和备案号
+- 5.(可选)替换images\background.jpg以设置背景图
+- 6.绑定域名，enjoy！
 
 *使用方法与原版相同*
